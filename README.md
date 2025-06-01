@@ -1,51 +1,73 @@
 
+````markdown
+# 🔥 Tugas Akhir Semester 2 — *Matematika: Lava is Rising*
+
+Selamat datang di proyek *Tugas Akhir Semester 2*!  
+Ini adalah game kuis matematika dua pemain dengan tema unik: **lava is rising**. Pemain harus menjawab soal secepat mungkin sebelum "lava" mencapai mereka. Semakin lambat kamu menjawab, semakin besar penalti yang kamu terima!
+
+---
 
 ## 🛠️ Cara Menjalankan Program C++
 
-Ikuti langkah-langkah berikut untuk meng-clone, meng-compile, dan menjalankan program ini di komputermu:
+Ikuti langkah-langkah berikut untuk meng-*clone*, meng-*compile*, dan menjalankan program ini:
 
 ### 🔽 1. Clone Repository
 
-Pastikan kamu sudah menginstal Git. Lalu buka terminal dan jalankan:
+Pastikan kamu sudah menginstal **Git**. Buka terminal atau command prompt, lalu jalankan:
 
 ```bash
-git clone https://github.com/KwenzyZZ/Tugas-Akhir-Semester-2
-cd nama-repo
-```
+git clone https://github.com/KwenzyZZ/Tugas-Akhir-Semester-2.git
+cd Tugas-Akhir-Semester-2
+````
 
 ### ⚙️ 2. Compile Program
 
-Gunakan compiler C++ seperti `g++`. Jika program terdiri dari satu file `main.cpp`, jalankan:
+Gunakan compiler C++ seperti `g++` untuk meng-compile file utama `lavaIsRising.cpp`:
 
 ```bash
-g++ main.cpp -o program
+g++ lavaIsRising.cpp -o lavaGame
 ```
 
-Jika terdiri dari banyak file `.cpp`, gunakan:
-
-```bash
-g++ *.cpp -o program
-```
-
-> **Catatan:** Ganti `main.cpp` sesuai nama file utama programmu.
+> 💡 Jika ada file lain yang digunakan (misalnya header atau file sumber tambahan), pastikan ikut dicompile juga.
 
 ### ▶️ 3. Jalankan Program
 
 Setelah berhasil dikompilasi, jalankan dengan perintah:
 
 ```bash
-./program        # Untuk Linux/macOS
-program.exe      # Untuk Windows
+./lavaGame        # untuk Linux/macOS
+lavaGame.exe      # untuk Windows
 ```
 
+---
 
+## 📦 Kebutuhan Sistem
 
-### ✅ Contoh
+* Compiler C++ (g++, clang, atau MinGW)
+* Terminal atau Command Prompt
+* Sistem operasi: Windows, Linux, atau macOS
 
-```bash
-git clone https://github.com/KwenzyZZ/Tugas-Akhir-Semester-2
-cd matematika-resing
-g++ main.cpp -o matematika-resing
-./matematika-resing
-```
+---
+
+## 📚 Deskripsi Singkat
+
+* **Nama Program:** Matematika: Lava is Rising
+* **Bahasa:** C++
+* **Tujuan:** Latihan logika matematika dengan tekanan waktu dan gameplay kompetitif
+* **Fitur:**
+
+  * Dua pemain secara bergantian menjawab soal
+  * Penalti waktu jika terlambat menjawab
+  * Visual sederhana menggunakan teks
+
+---
+
+## 👨‍💻 Pembuat
+
+> Zaidan Kwenzy
+> Tugas Akhir Semester 2 - 2025
+
+---
+
+> “Berpikir cepat, jawab tepat, atau kamu akan tenggelam dalam lava!”
 
