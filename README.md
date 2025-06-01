@@ -1,5 +1,4 @@
 
-````markdown
 # 🔥 Tugas Akhir Semester 2 — *Matematika: Lava is Rising*
 
 Selamat datang di proyek *Tugas Akhir Semester 2*!  
@@ -62,12 +61,6 @@ lavaGame.exe      # untuk Windows
 
 ---
 
-## 👨‍💻 Pembuat
-
-> Zaidan Kwenzy
-> Tugas Akhir Semester 2 - 2025
-
----
 
 > “Berpikir cepat, jawab tepat, atau kamu akan tenggelam dalam lava!”
 
