@@ -9,7 +9,7 @@ Ikuti langkah-langkah berikut untuk meng-clone, meng-compile, dan menjalankan pr
 Pastikan kamu sudah menginstal Git. Lalu buka terminal dan jalankan:
 
 ```bash
-git clone https://github.com/zaidankwenzy/nama-repo.git
+git clone https://github.com/KwenzyZZ/Tugas-Akhir-Semester-2
 cd nama-repo
 ```
 
@@ -43,7 +43,7 @@ program.exe      # Untuk Windows
 ### ✅ Contoh
 
 ```bash
-git clone https://github.com/zaidankwenzy/matematika-resing.git
+git clone https://github.com/KwenzyZZ/Tugas-Akhir-Semester-2
 cd matematika-resing
 g++ main.cpp -o matematika-resing
 ./matematika-resing
