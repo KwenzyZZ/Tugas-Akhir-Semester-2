@@ -1,4 +1,4 @@
----
+
 
 ## 🛠️ Cara Menjalankan Program C++
 
@@ -38,7 +38,7 @@ Setelah berhasil dikompilasi, jalankan dengan perintah:
 program.exe      # Untuk Windows
 ```
 
----
+
 
 ### ✅ Contoh
 
